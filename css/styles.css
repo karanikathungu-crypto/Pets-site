@@ -1,0 +1,22 @@
+body{
+  background-color:  #34495e ;
+  color:  #d0d3d4 ;
+}
+.column{
+  width:300px;
+  float:left;
+  padding:12px;
+}
+.pic{
+  width:280px;
+  height:300px;
+}
+h1{
+  text-align: center;
+}
+footer{
+  background-color: #212f3c;
+}
+a:hover{
+  background-color: #eaeded;
+}
